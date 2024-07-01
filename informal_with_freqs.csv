@@ -1,0 +1,122 @@
+,term,codeine_freq,fentanyl_freq,morphine_freq,oxym_freq,oxyc_freq,max_freq
+0,sublimaze,1,204,1,0,0,204
+1,duragesic,1,196,6,4,24,196
+2,fentanil,0,134,0,0,0,134
+3,sufentanil,8,130,16,0,0,130
+4,fentanylum,0,125,0,0,0,125
+5,fentora,2,120,1,0,0,120
+6,actiq,0,74,0,0,1,74
+7,lofentanil,1,51,0,0,0,51
+8,fentanyl citrate,0,51,0,0,0,51
+9,fentynal,0,44,0,0,0,44
+10,fentanyl hydrochloride,0,42,0,0,0,42
+11,fenanyl,0,41,0,0,0,41
+12,fentanest,0,39,0,0,0,39
+13,effentora,0,37,0,0,0,37
+14,fentynyl,0,34,0,0,0,34
+15,remifentanil,1,32,11,0,0,32
+16,fentenyl,0,32,0,0,0,32
+17,alfentanil,1,30,10,0,0,30
+18,fentynol,0,27,0,0,0,27
+19,fentanyle,0,23,0,0,0,23
+20,sufentanyl,0,22,4,0,0,22
+21,fenatyl,0,21,0,0,0,21
+22,instanyl,0,20,2,0,0,20
+23,subsys,0,20,0,0,0,20
+24,fentanal,0,19,0,0,0,19
+25,fentayl,0,17,0,0,0,17
+26,fentyal,0,15,0,0,0,15
+27,furanyl fentanyl,0,15,0,0,0,15
+28,matrifen,0,14,0,0,0,14
+29,fenantyl,0,13,0,0,0,13
+30,fetanyl,0,13,0,0,0,13
+31,fentanel,0,13,0,0,0,13
+32,fentanol,0,12,0,0,0,12
+33,phentanyl,1,11,0,1,0,11
+34,abstral,0,11,0,0,0,11
+35,fentol,0,11,0,0,0,11
+36,fentynl,0,11,0,0,0,11
+37,fentyl,0,11,0,0,0,11
+38,ultiva,0,10,0,0,0,10
+39,fentinal,0,9,0,0,0,9
+40,onsolis,0,9,0,0,0,9
+41,thebaine,238,0,12,0,0,238
+42,codiene,157,0,0,0,4,157
+43,tylenol codeine,0,0,0,0,0,0
+44,eucodal,33,0,0,0,1,33
+45,dicodin,27,0,0,0,0,27
+46,tylenol 3,26,0,0,0,0,26
+47,co-codamol,20,0,0,0,0,20
+48,lortab,20,0,11,7,60,60
+49,pseudocodeine,16,0,0,0,0,16
+50,codine,16,0,0,0,0,16
+51,hydrocodin,15,0,1,0,3,15
+52,codeine phosphate,14,0,0,0,0,14
+53,codeinum,14,0,0,0,0,14
+54,tussionex,13,0,1,0,1,13
+55,isocodeine,12,0,0,0,0,12
+56,codeine sulfate,11,0,0,0,0,11
+57,empirin with codeine,10,0,1,0,0,10
+58,tussigon,10,0,0,0,0,10
+59,roxanol,13,2,225,24,37,225
+60,kadian,1,0,115,0,2,115
+61,oramorph,11,0,88,3,2,88
+62,morphinum,1,0,73,0,0,73
+63,avinza,0,0,72,0,0,72
+64,duramorph,2,0,72,3,0,72
+65,ms contin,4,1,65,4,5,65
+66,orphine,1,0,43,9,0,43
+67,dolophine,7,5,33,2,6,33
+68,infumorph,0,2,32,0,0,32
+69,morfin pill,0,0,0,0,0,0
+70,roxanol-t,2,0,29,1,0,29
+71,meperidine,36,8,25,0,0,36
+72,laudanum,14,0,25,0,0,25
+73,morphinan,11,0,21,5,0,21
+74,m-eslon,0,0,21,0,1,21
+75,palfium,3,1,19,2,0,19
+76,methadone,29,5,17,6,1,29
+77,zomorph,1,0,14,3,1,14
+78,kapanol,2,0,10,0,1,10
+79,embeda,0,0,10,0,0,10
+80,demerol,3,2,16,1,5,16
+81,arymo,0,0,0,0,0,0
+82,morphabond,0,0,5,0,0,5
+83,opium tincture,1,0,0,0,0,1
+84,oxycontin,8,5,47,78,330,330
+85,roxicodone,6,1,30,41,255,255
+86,roxicet,18,1,6,29,232,232
+87,endocet,7,0,7,24,227,227
+88,endocodone,4,0,9,48,198,198
+89,oxyir,0,0,4,11,115,115
+90,oxynorm,3,0,4,22,100,100
+91,percodan,38,0,7,17,82,82
+92,oxycet,3,0,0,3,81,81
+93,tylox,8,0,1,11,69,69
+94,oxyfast,0,0,0,3,56,56
+95,oxycotton,0,0,0,4,48,48
+96,hydrocodone,148,4,21,14,46,148
+97,oxydose,4,0,4,12,44,44
+98,endocets,0,0,0,0,44,44
+99,norco,14,1,7,3,38,38
+100,oxycodon,4,0,1,1,36,36
+101,oxymorphone,20,3,40,31,35,40
+102,roxycodone,0,0,1,3,28,28
+103,oxy ir,0,0,0,1,26,26
+104,oxycodan,6,0,0,1,25,25
+105,numorphan,7,3,20,38,24,38
+106,percocets,0,0,0,7,23,23
+107,roxilox,0,0,0,0,19,19
+108,endone,0,0,0,0,16,16
+109,oxyneo,0,0,1,0,16,16
+110,oxygesic,1,0,0,0,15,15
+111,oxycodone hydrochloride,4,0,0,3,13,13
+112,oxycotin,0,0,0,3,13,13
+113,oxydone,0,0,0,6,12,12
+114,ocycodone,0,0,0,0,9,9
+115,roxybond,1,1,7,3,9,9
+116,Xtampza ER,0,0,0,0,3,3
+118,Oxaydo,0,0,2,0,2,2
+119,opana,1,2,3,15,7,15
+120,oxymorphone hydrochloride,0,0,0,36,0,36
+121,vicodin,33,4,19,23,98,98
