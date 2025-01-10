@@ -1,9 +1,9 @@
 # Social Media for Opioid Trend Monitoring
 **K.A. Carpenter, A.T. Nguyen, D.A. Smith, I.A. Samori, K. Humphreys, A. Lembke, M.V. Kiang, J.C. Eichstaedt, R.B. Altman**
 
-This repository contains all code and data associated with the paper, "Which Social Media Platforms Provide the Most Informative Data for Monitoring the Opioid Crisis" *(in review)*.
+This repository contains all code and data associated with the paper, "Which social media platforms facilitate monitoring the opioid crisis?" *(in review)*. A preprint is available [here](https://www.medrxiv.org/content/10.1101/2024.07.06.24310035v2).
 
-We organize the scripts and data according to what stage of the study they are associated with.
+We organize the scripts and data according to what stage of the study they are associated with. For more detailed specifications of each csv, please see `data_dictionaries.md`.
 
 1. Filtering platform list to shortlist
 - **`platform_list.csv`** - This CSV is a dataframe containing the 72 platforms assessed in the study, their respective URLs, and whether they fulfill each of our shortlisting criteria described in the paper.
